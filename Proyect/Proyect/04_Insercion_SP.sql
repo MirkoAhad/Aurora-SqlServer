@@ -151,29 +151,3 @@ FROM info.Empleados
 SELECT *
 FROM info.ClasificacionProductos
 
--- CSV
-DROP TABLE ventas.ventas_registradas
-GO
-DROP TABLE productos.catalogo
-GO
--- XLXS
-DROP TABLE productos.electronic_accesories
-GO
-DROP TABLE productos.productos_importados
-GO
-
-DROP TABLE info.sucursal
-GO
-DROP table info.Empleados
-GO
-
-DROP TABLE info.ClasificacionProductos
-GO
-
--- PROCEDURES
-
-DROP PROCEDURE ImportarDesdeExcel
-GO
-
-DROP PROCEDURE ImportarCSV
-GO
