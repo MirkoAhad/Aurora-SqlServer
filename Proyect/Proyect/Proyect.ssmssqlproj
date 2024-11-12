@@ -3,7 +3,7 @@
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
-        <ConnectionNode Name="DESKTOP-B0BK2FG\SQLEXPRESS:DESKTOP-B0BK2FG\ahadm">
+        <ConnectionNode Name="DESKTOP-B0BK2FG\SQLEXPRESS:DESKTOP-DC3QA2S\Nachito">
           <Created>2024-11-10T17:57:31.8972662-03:00</Created>
           <Type>SQL</Type>
           <Server>DESKTOP-B0BK2FG\SQLEXPRESS</Server>
@@ -23,34 +23,40 @@
     <LogicalFolder Name="Queries" Type="0" Sorted="true">
       <Items>
         <FileNode Name="01_Creacion_DB_Objetos.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-B0BK2FG\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-B0BK2FG\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>01_Creacion_DB_Objetos.sql</FullPath>
         </FileNode>
         <FileNode Name="02_Configuraciones.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-B0BK2FG\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-B0BK2FG\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>02_Configuraciones.sql</FullPath>
         </FileNode>
         <FileNode Name="03_Creacion_SP.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-B0BK2FG\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-B0BK2FG\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>03_Creacion_SP.sql</FullPath>
         </FileNode>
         <FileNode Name="04_Insercion_SP.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-B0BK2FG\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-B0BK2FG\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>04_Insercion_SP.sql</FullPath>
         </FileNode>
         <FileNode Name="05_Exec.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-B0BK2FG\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-B0BK2FG\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
           <AssociatedConnUserName />
           <FullPath>05_Exec.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06_Reportes.sql">
+          <AssociatedConnectionMoniker />
+          <AssociatedConnSrvName />
+          <AssociatedConnUserName />
+          <FullPath>06_Reportes.sql</FullPath>
         </FileNode>
       </Items>
     </LogicalFolder>
