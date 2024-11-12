@@ -16,7 +16,7 @@ CREATE TABLE info.sucursal(
 	Id_sucursal INT IDENTITY(1,1) primary key,
 	Ciudad VARCHAR(50),
 	ReemplazarPor VARCHAR(50),
-	direccion VARCHAR(100),
+	Direccion VARCHAR(100),
 	Horario VARCHAR(50),
 	Telefono CHAR(9),
 	FechaBaja DATETIME -- si fechabaja es NULL, es porque no esta dado de baja.
